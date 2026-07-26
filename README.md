@@ -6,4 +6,4 @@ I built this case with the intention to make it sleek enough for my desk and be 
 
 BOM - 
 Heat set inserts (already own) 
-3d printed parts from jlc3dp
+3d printed parts (i have a printer)
