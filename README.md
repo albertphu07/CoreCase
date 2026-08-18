@@ -47,7 +47,7 @@ I focused on making the case compact and simple while still providing enough roo
 | Part | Quantity | Notes |
 |---|---:|---|
 | 3D-printed parts | 1 set | Printed using my own 3D printer |
-| Heat-set inserts | As required | Already owned |
+| Heat-set inserts | 4x | Already owned |
 
 ## Manufacturing
 
